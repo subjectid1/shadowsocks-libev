@@ -4,7 +4,7 @@ ENV PORT        443
 ENV PASSWORD    170826
 ENV METHOD      chacha20-ietf-poly1305
 ENV PV          1.3.1
-ENV WSPATH="/ChangeThis"
+ENV WSPATH="/"
 
 
 RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories && \
