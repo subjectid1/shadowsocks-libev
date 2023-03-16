@@ -5,7 +5,7 @@
     "env": {
         "PASSWORD": {
             "description": "shadowsocks-libev password",
-            "value": "ChangeThis"
+            "value": "170826"
         },
         "METHOD": {
             "description": "shadowsocks-libev method",
